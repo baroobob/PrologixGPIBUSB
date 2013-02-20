@@ -1,5 +1,5 @@
-Keithley617
-===========
+PrologixGPIBUSB
+===============
 
 This is a Python module for controlling a Prologix USB to GPIB adapter made by 
 a company called Prologix (http://prologix.biz/).  It depends on PySerial 
